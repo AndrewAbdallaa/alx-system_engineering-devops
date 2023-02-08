@@ -31,4 +31,6 @@
 **13-symbolic_link**             - symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory. 
 #
 **14-copy_html**                 - copies all the HTML files
+#
+**100-lets_move**                - moves all files beginning with an uppercase letter to the directory /tmp/u.
 
